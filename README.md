@@ -11,8 +11,9 @@ I am Chris from France. I am currently attending a Bootcamp in Front-end Web Dev
       <a href="https://github.com/cedagbo?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/cedagbo?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+   
 
-## 🧰 Languages and Tools:
+### 🧰 Languages and Tools:
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -24,7 +25,7 @@ I am Chris from France. I am currently attending a Bootcamp in Front-end Web Dev
 
 #
 
-## 💼 Examples of Work
+### 💼 Examples of Work
 <img src="https://github.com/cedagbo/Horiseon-Inc/blob/main/Horiseon-Inc_index.html.png" width="256">
 <br />
 
@@ -32,7 +33,7 @@ I am Chris from France. I am currently attending a Bootcamp in Front-end Web Dev
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/ChrisDagbo"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="drawing" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/chris-eric-dagbo/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/>
 <br />
   
-## 📊 Stats
+### 📊 Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cedagbo)](https://github.com/anuraghazra/github-readme-stats)
 
