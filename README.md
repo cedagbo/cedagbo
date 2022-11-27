@@ -29,7 +29,7 @@ I am Chris from France. I am currently attending a Bootcamp in Front-end Web Dev
 <img src="https://github.com/cedagbo/Horiseon-Inc/blob/main/Horiseon-Inc_index.html.png" width="256">
 <br />
 
-## ✆ Contact Me
+### ✆ Contact Me
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/ChrisDagbo"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="drawing" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/chris-eric-dagbo/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/>
 <br />
   
