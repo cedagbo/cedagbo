@@ -4,7 +4,7 @@
 
 <img src='./Beige & Black Geometric Technology LinkedIn Banner.jpg' alt='github banner' width='100%'>
 
-I am Chris from France. I am currently attending a Bootcamp in Front-end Web Development. I am really enjoying the association of different languages and frameworks to improve UX and UI, and deliver appealing websites. 
+I am Chris from France. I am currently attending a Bootcamp in Front-end Web Development. I am really enjoying the association of different languages and frameworks to improve UX and UI, and deliver appealing websites. I will be sharing my coding journey along the way with you. Please feel free to reach out to me 👍.
  <p align="left"> 
       <a href="https://github.com/cedagbo?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/cedagbo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -21,9 +21,9 @@ I am Chris from France. I am currently attending a Bootcamp in Front-end Web Dev
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<!-- <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> -->
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />   
+<!-- <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />    -->
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 
       
