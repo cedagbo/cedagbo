@@ -1,7 +1,9 @@
 ### Hi there 👋, Chris-Eric Dagbo
 
 <img src='./Beige & Black Geometric Technology LinkedIn Banner.jpg' alt='github banner' width='100%'>
+
 #### Front-end Web Developer
+
 I am Chris from France. I am currently attending a Bootcamp in Front-end Web Development. I am really enjoying the association of different languages and frameworks such as Bootstrap to improve user experience and interaction. 
 
 Skills:  
