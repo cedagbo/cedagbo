@@ -7,6 +7,9 @@ I am Chris from France. I am currently attending a Bootcamp in Front-end Web Dev
 ## Skills:  
 * 💻 JS / HTML / CSS
 
+## Examples of Work
+<img src="https://github.com/cedagbo/Horiseon-Inc" width="256">
+
 ## Contact Me
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cedagbo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chris-eric-dagbo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ChrisDagbo)  
