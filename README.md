@@ -8,7 +8,7 @@ I am Chris from France. I am currently attending a Bootcamp in Front-end Web Dev
 * 💻 JS / HTML / CSS
 
 ## Examples of Work
-<img src="https://github.com/cedagbo/Horiseon-Inc" width="256">
+<img src="https://github.com/cedagbo/Horiseon-Inc/blob/main/Horiseon-Inc_index.html.png" width="256">
 
 ## Contact Me
 
