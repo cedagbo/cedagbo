@@ -1,16 +1,5 @@
 ### Hi there 👋
 
-<!--
-**cedagbo/cedagbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Chris from France. I am currently attending a Bootcamp in Front-end Web Development. I am really enjoying the association of different languages and frameworks such as Bootstrap to improve user experience and interaction. Please, feel free to check out my Twitter at twitter.com/ChrisDagbo.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... Password Generator
-- 🌱 I’m currently learning ... JavaScript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... anything
-- 📫 How to reach me: ... www.twitter.com/ChrisDagbo
-- 😄 Pronouns: ... He/him
-- ⚡ Fun fact: ... 
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cedagbo)](https://github.com/anuraghazra/github-readme-stats)
