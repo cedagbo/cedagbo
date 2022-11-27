@@ -4,7 +4,7 @@
 
 **`Aspiring Front-end Web Developer`**
 
-I am Chris from France. I am currently attending a Bootcamp in Front-end Web Development. I am really enjoying the association of different languages and frameworks to improve UX and UI and deliver appealing websites. 
+I am Chris from France. I am currently attending a Bootcamp in Front-end Web Development. I am really enjoying the association of different languages and frameworks to improve UX and UI, and deliver appealing websites. 
  <p align="left"> 
       <a href="https://github.com/cedagbo?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/cedagbo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
