@@ -1,8 +1,8 @@
-<img src='./Beige & Black Geometric Technology LinkedIn Banner.jpg' alt='github banner' width='100%'>
-
-# Chris-Eric Dagbo
+# Welcome to Chris' profile 👋
 
 **`Aspiring Front-end Web Developer`**
+
+<img src='./Beige & Black Geometric Technology LinkedIn Banner.jpg' alt='github banner' width='100%'>
 
 I am Chris from France. I am currently attending a Bootcamp in Front-end Web Development. I am really enjoying the association of different languages and frameworks to improve UX and UI, and deliver appealing websites. 
  <p align="left"> 
