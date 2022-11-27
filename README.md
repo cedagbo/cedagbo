@@ -20,5 +20,3 @@ I am Chris from France. I am currently attending a Bootcamp in Front-end Web Dev
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cedagbo&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=cedagbo)  
-
