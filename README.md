@@ -51,7 +51,7 @@ alt="IMAGE ALT TEXT HERE" width="256" height="230" border="10" /></a>
  
 ### 📊 Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cedagbo)](https://github.com/cedagbo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cedagbo&layout=compact&theme=calm)](https://github.com/cedagbo/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cedagbo&show_icons=true&theme=gruvbox)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cedagbo&show_icons=true&theme=calm)
 
