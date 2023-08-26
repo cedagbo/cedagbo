@@ -1,10 +1,5 @@
 # Welcome to Chris' profile 👋
 
-**`Aspiring Front-end Web Developer`**
-
-<img src='./Beige & Black Geometric Technology LinkedIn Banner.jpg' alt='github banner' width='100%'>
-
-I am Chris from France. I am currently attending a Bootcamp in Front-end Web Development. I am really enjoying the association of different languages and frameworks to improve UX and UI, and deliver appealing websites. I will be sharing my coding journey along the way with you. Please feel free to reach out to me 👍.
  <p align="left"> 
       <a href="https://github.com/cedagbo?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/cedagbo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
